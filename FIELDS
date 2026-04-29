@@ -1,0 +1,167 @@
+{
+  "escapeLabel": {
+    "type": "text",
+    "label": "Escape Label",
+    "value": "ESCAPES"
+  },
+  "deathLabel": {
+    "type": "text",
+    "label": "Death Label",
+    "value": "DEATHS"
+  },
+  "escapeIconUrl": {
+    "type": "text",
+    "label": "Escape Icon URL",
+    "value": ""
+  },
+  "deathIconUrl": {
+    "type": "text",
+    "label": "Death Icon URL",
+    "value": ""
+  },
+  "widgetWidth": {
+    "type": "number",
+    "label": "Widget Width",
+    "value": 1100
+  },
+  "widgetHeight": {
+    "type": "number",
+    "label": "Widget Height",
+    "value": 220
+  },
+  "startEscapes": {
+    "type": "number",
+    "label": "Starting Escapes",
+    "value": 0
+  },
+  "startDeaths": {
+    "type": "number",
+    "label": "Starting Deaths",
+    "value": 0
+  },
+  "fxScale": {
+    "type": "number",
+    "label": "FX Size Multiplier",
+    "value": 1.8
+  },
+  "borderPink": {
+    "type": "colorpicker",
+    "label": "Neon Border Pink",
+    "value": "#ff4db8"
+  },
+  "textWhite": {
+    "type": "colorpicker",
+    "label": "Counter Color",
+    "value": "#ffffff"
+  },
+  "escapeColor": {
+    "type": "colorpicker",
+    "label": "Escape Label Color",
+    "value": "#54f8ff"
+  },
+  "deathColor": {
+    "type": "colorpicker",
+    "label": "Death Label Color",
+    "value": "#ff73bf"
+  },
+  "dividerColor": {
+    "type": "colorpicker",
+    "label": "Divider Color",
+    "value": "#ffd7ff"
+  },
+  "iconBoxTop": {
+    "type": "colorpicker",
+    "label": "Icon Box Top",
+    "value": "#8d38ff"
+  },
+  "iconBoxBottom": {
+    "type": "colorpicker",
+    "label": "Icon Box Bottom",
+    "value": "#541db2"
+  },
+  "heartLeft": {
+    "type": "colorpicker",
+    "label": "Left Heart Color",
+    "value": "#27e8ff"
+  },
+  "heartRight": {
+    "type": "colorpicker",
+    "label": "Right Heart Color",
+    "value": "#ff2e9f"
+  },
+  "heartCenterLeft": {
+    "type": "colorpicker",
+    "label": "Center Left Heart Color",
+    "value": "#ffb300"
+  },
+  "heartCenterRight": {
+    "type": "colorpicker",
+    "label": "Center Right Heart Color",
+    "value": "#b86cff"
+  },
+  "star1": {
+    "type": "colorpicker",
+    "label": "Star Color 1",
+    "value": "#ffd24d"
+  },
+  "star2": {
+    "type": "colorpicker",
+    "label": "Star Color 2",
+    "value": "#ffffff"
+  },
+  "star3": {
+    "type": "colorpicker",
+    "label": "Star Color 3",
+    "value": "#ff7de1"
+  },
+  "escapeSound": {
+    "type": "text",
+    "label": "Escape Sound URL",
+    "value": ""
+  },
+  "deathSound": {
+    "type": "text",
+    "label": "Death Sound URL",
+    "value": ""
+  },
+  "modsOnly": {
+    "type": "checkbox",
+    "label": "Only mods/broadcaster can use commands",
+    "value": true
+  },
+  "cmdEscape": {
+    "type": "text",
+    "label": "Add Escape Command",
+    "value": "!escape"
+  },
+  "cmdDeath": {
+    "type": "text",
+    "label": "Add Death Command",
+    "value": "!death"
+  },
+  "cmdMinusEscape": {
+    "type": "text",
+    "label": "Remove Escape Command",
+    "value": "!unescape"
+  },
+  "cmdMinusDeath": {
+    "type": "text",
+    "label": "Remove Death Command",
+    "value": "!undeath"
+  },
+  "cmdReset": {
+    "type": "text",
+    "label": "Reset Command",
+    "value": "!resetboard"
+  },
+  "cmdSetEscapes": {
+    "type": "text",
+    "label": "Set Escapes Command",
+    "value": "!setescapes"
+  },
+  "cmdSetDeaths": {
+    "type": "text",
+    "label": "Set Deaths Command",
+    "value": "!setdeaths"
+  }
+}
