@@ -1,0 +1,41 @@
+<div class="neon-wrap">
+  <div class="neon-bar" id="neonBar">
+    <div class="fx-layer" id="fxLayer"></div>
+
+    <div class="heart heart-left-big">♡</div>
+    <div class="heart heart-right-big">♡</div>
+    <div class="heart heart-mid-left">♡</div>
+    <div class="heart heart-mid-right">♡</div>
+
+    <div class="star star-1">✦</div>
+    <div class="star star-2">✦</div>
+    <div class="star star-3">✦</div>
+    <div class="star star-4">✦</div>
+    <div class="star star-5">✦</div>
+    <div class="star star-6">✦</div>
+
+    <div class="side left-side" id="leftSide">
+      <div class="icon-box" id="escapeIconBox">
+        <img class="icon-img" src="{{escapeIconUrl}}" alt="Escape Icon">
+      </div>
+
+      <div class="stat-wrap">
+        <div class="label escapes">{{escapeLabel}}</div>
+        <div class="count" id="escapesCount">0</div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="side right-side" id="rightSide">
+      <div class="stat-wrap">
+        <div class="label deaths">{{deathLabel}}</div>
+        <div class="count" id="deathsCount">0</div>
+      </div>
+
+      <div class="icon-box" id="deathIconBox">
+        <img class="icon-img" src="{{deathIconUrl}}" alt="Death Icon">
+      </div>
+    </div>
+  </div>
+</div>
